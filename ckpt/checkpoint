@@ -1,0 +1,6 @@
+model_checkpoint_path: "others-27001"
+all_model_checkpoint_paths: "new\\model.ckpt-26542"
+all_model_checkpoint_paths: "new\\model.ckpt-26745"
+all_model_checkpoint_paths: "new\\model.ckpt-26964"
+all_model_checkpoint_paths: "new\\model.ckpt-27001"
+all_model_checkpoint_paths: "others-27001"
