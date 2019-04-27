@@ -9,12 +9,12 @@ We use ZED Mini Stereo Camera to capture the road scene.
 - Jetpack 3.1 (CUDA 8.0/cuDNN 6.0)
 - Python 3.5
 - ZED SDK 2.3
-- opencv-python
 
 ## Requirements for Python
 - TensorFlow 1.4 (need to be compiled on TX2)
 - cv2
 - pyzed
+- opencv-python
 
 ## Usage
 ```python
